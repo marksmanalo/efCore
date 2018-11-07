@@ -1,2 +1,2 @@
 # efCore
-Entity Framework Core
+Entity Framework Core with SQL Server express and web api starter
